@@ -2,7 +2,7 @@ module github.com/AmadlaOrg/LibraryDoormanFramework
 
 go 1.26
 
-toolchain go1.26.1
+toolchain go1.26.4
 
 replace github.com/AmadlaOrg/LibraryUtils => ../LibraryUtils
 
